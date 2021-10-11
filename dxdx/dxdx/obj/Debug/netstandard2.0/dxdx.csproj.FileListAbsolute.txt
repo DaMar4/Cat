@@ -1,0 +1,12 @@
+C:\Users\Daniel Marin\source\repos\dxdx\dxdx\bin\Debug\netstandard2.0\CajaSorpresa.deps.json
+C:\Users\Daniel Marin\source\repos\dxdx\dxdx\bin\Debug\netstandard2.0\CajaSorpresa.dll
+C:\Users\Daniel Marin\source\repos\dxdx\dxdx\bin\Debug\netstandard2.0\CajaSorpresa.pdb
+C:\Users\Daniel Marin\source\repos\dxdx\dxdx\obj\Debug\netstandard2.0\dxdx.csprojAssemblyReference.cache
+C:\Users\Daniel Marin\source\repos\dxdx\dxdx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Daniel Marin\source\repos\dxdx\dxdx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Daniel Marin\source\repos\dxdx\dxdx\obj\Debug\netstandard2.0\dxdx.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Marin\source\repos\dxdx\dxdx\obj\Debug\netstandard2.0\dxdx.AssemblyInfoInputs.cache
+C:\Users\Daniel Marin\source\repos\dxdx\dxdx\obj\Debug\netstandard2.0\dxdx.AssemblyInfo.cs
+C:\Users\Daniel Marin\source\repos\dxdx\dxdx\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Daniel Marin\source\repos\dxdx\dxdx\obj\Debug\netstandard2.0\CajaSorpresa.dll
+C:\Users\Daniel Marin\source\repos\dxdx\dxdx\obj\Debug\netstandard2.0\CajaSorpresa.pdb
